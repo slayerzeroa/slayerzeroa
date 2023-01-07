@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://user-images.githubusercontent.com/66348567/211156261-85050907-e633-4f2f-b276-feb0d2bbb04f.png)
+![image](https://user-images.githubusercontent.com/66348567/211156261-85050907-e633-4f2f-b276-feb0d2bbb04f.gif)
 
 <br>🌱 Skills: [Financial Engineering], [Solidity], [NLP]</br>
 <br>👯 Collaborate: [Web3 Developer]</br>
