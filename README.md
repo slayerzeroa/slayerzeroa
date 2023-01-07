@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <br>🌱 Skills: [Financial Engineering], [Solidity], [NLP]</br>
 <br>👯 Collaborate: [Web3 Developer]</br>
 <br>📫 Contact: slayerzeroa@naver.com</br>
+<br>⛓ My Web3 Project: https://ajoulinka.shop/</br>
 
 <br><a href="https://blog.naver.com/slayerzeroa" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=FFFFFF"/> <a href="https://stockduck.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/></a></br>
 
