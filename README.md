@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요👋
 
 <!--
 **slayerzeroa/slayerzeroa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning [Financial Engineering], [Solidity], [NLP]
+<br>🌱 I’m currently learning [Financial Engineering], [Solidity], [NLP]</br>
 👯 I’m looking to collaborate on [Web3 Developer]
 📫 How to reach me: slayerzeroa@naver.com
 
