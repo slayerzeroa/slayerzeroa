@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 <br><a href="https://blog.naver.com/slayerzeroa" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=FFFFFF"/> <a href="https://stockduck.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/></a></br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=https://github.com/slayerzeroa)](https://solved.ac/slayerzeroa)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=slayerzeroa)](https://solved.ac/slayerzeroa)<br/>
