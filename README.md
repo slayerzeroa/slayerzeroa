@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![d1cb061ba8f6b21e5cbc939d448408d9](https://user-images.githubusercontent.com/66348567/211156355-62823c67-3222-4562-b0b6-8e61debd25e4.gif)
-
 <br>🌱 Skills: [Financial Engineering], [Solidity], [NLP]</br>
 <br>👯 Collaborate: [Web3 Developer]</br>
 <br>📫 Contact: slayerzeroa@naver.com</br>
