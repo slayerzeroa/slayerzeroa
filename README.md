@@ -1,4 +1,4 @@
-### 안녕하세요! こんにちは! 你好! Hello! Bonjour! Olá!👋
+### 👋안녕하세요! こんにちは! 你好! Hello! Bonjour! Olá!
 
 <!--
 **slayerzeroa/slayerzeroa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
