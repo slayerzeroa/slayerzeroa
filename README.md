@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <br>👯 Collaborate: [Web3 Developer]</br>
 <br>📫 Contact: slayerzeroa@naver.com</br>
 
-<br>Blog</br>
-<a href="https://blog.naver.com/slayerzeroa" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=NaverBlog&logoColor=FFFFFF"/></a>
+<br>Managing Blog: <a href="https://blog.naver.com/slayerzeroa" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=NaverBlog&logoColor=FFFFFF"/></a></br>
+
