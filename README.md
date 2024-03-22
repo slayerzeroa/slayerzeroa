@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![d1cb061ba8f6b21e5cbc939d448408d9](https://user-images.githubusercontent.com/66348567/211156355-62823c67-3222-4562-b0b6-8e61debd25e4.gif)
-<br>🌱 Skills: [Financial Engineering], [Block Chain], [NLP]</br>
-<br>👯 Collaborate: [Web3 Developer]</br>
+<br>🌱 Skills: Python, C++ for Finance</br>
 <br>📫 Contact: slayerzeroa@naver.com</br>
-<br>⛓ My Web3 Project: http://ajoufe.synology.me:3000/</br>
 
 <br><a href="https://blog.naver.com/slayerzeroa" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=FFFFFF"/></a> <a href="https://stockduck.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/></a> <a href="https://www.linkedin.com/in/%EB%8C%80%EB%AA%85-%EC%9C%A0-625084183/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF"/></a> <a href="https://opensea.io/Gorapaduck_" target="_blank"><img src="https://img.shields.io/badge/OpenSea-2081E2?style=for-the-badge&logo=OpenSea&logoColor=FFFFFF"/> <a href="https://www.youtube.com/@psy_duck/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=FFFFFF"/></br>
 
