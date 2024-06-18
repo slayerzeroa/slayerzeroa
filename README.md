@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 <a href="https://opensea.io/Gorapaduck_" target="_blank"><img src="https://img.shields.io/badge/OpenSea-2081E2?style=for-the-badge&logo=OpenSea&logoColor=FFFFFF"/>
  <a href="https://stockduck.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/></a>
 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=slayerzeroa)](https://solved.ac/slayerzeroa)<br/>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fslayerzeroa&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=How+many+visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=slayerzeroa)](https://solved.ac/slayerzeroa)[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fslayerzeroa&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=How+many+visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
