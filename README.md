@@ -26,6 +26,5 @@ Here are some ideas to get you started:
  <a href="https://stockduck.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/></a>
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=slayerzeroa)](https://solved.ac/slayerzeroa)
-[![github stats](https://github-readme-stats.vercel.app/api?username={Psyduck_20})](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slayerzeroa)](https://github.com/anuraghazra/github-readme-stats)
 
