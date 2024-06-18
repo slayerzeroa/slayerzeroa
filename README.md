@@ -25,3 +25,7 @@ Here are some ideas to get you started:
  <a href="https://stockduck.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/></a>
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=slayerzeroa)](https://solved.ac/slayerzeroa)<br/>
+
+[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={https://github.com/slayerzeroa}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
