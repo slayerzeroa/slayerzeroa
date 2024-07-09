@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slayerzeroa)](https://github.com/anuraghazra/github-readme-stats)</br></br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slayerzeroa&size_weight=0.5&count_weight=0.5&hide=scss,html,css,jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slayerzeroa&size_weight=0.5&count_weight=0.5&hide=scss,html,css,jupyter,makefile%20notebook)
 
