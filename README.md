@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div align="center">
     <!-- Naver Badge -->
     <a href="https://blog.naver.com/slayerzeroa" target="_blank">
-        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=FFFFFF" style="width: 20px;"/>
+        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=FFFFFF" style="height: 20px;"/>
     </a>
     <!-- LinkedIn Badge -->
     <a href="https://www.linkedin.com/in/%EB%8C%80%EB%AA%85-%EC%9C%A0-625084183/" target="_blank">
@@ -39,13 +39,6 @@ Here are some ideas to get you started:
     <!-- Solved.ac Profile Badge -->
     <a href="https://solved.ac/slayerzeroa" target="_blank">
         <img src="http://mazassumnida.wtf/api/generate_badge?boj=slayerzeroa" style="width: 300px;"/>
-    </a>
-</div>
-
-<div align="center">
-    <!-- GitHub Stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=slayerzeroa" style="width: 300px;"/>
     </a>
 </div>
 
