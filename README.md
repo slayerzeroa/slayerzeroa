@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 </div>
 
 ### 안녕하세요 Hello 你好 Bonjour こんにちは Olá!👋
-I focus on the Computational Finance using Python and C++. </br>My interested part is developing trading algorithms, pricing models, and risk management systems. </br>I've been working on data analysis at Nedge Healthcare in South Korea since 2024. </br>Always I want to cowork others. If you want to cowork me, please send me the email.
+Sincerely, I always hope you have a great day!
+</br>
+</br>
+🤹 SKILL : Python, C++ with finance</br>
+📫 CONTACT : slayerzeroa@naver.com</br>
 
 </br>
 </br>
