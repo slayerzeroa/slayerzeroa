@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![d1cb061ba8f6b21e5cbc939d448408d9](https://user-images.githubusercontent.com/66348567/211156355-62823c67-3222-4562-b0b6-8e61debd25e4.gif)
 <div align="center">
     <img src="https://user-images.githubusercontent.com/66348567/211156355-62823c67-3222-4562-b0b6-8e61debd25e4.gif" alt="welcome gif" style="width: 100%; height: auto;" />
     <br>🌱 Skills: Python, C++ for Finance</br>
