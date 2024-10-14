@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/66348567/211156355-62823c67-3222-4562-b0b6-8e61debd25e4.gif" alt="welcome gif" style="width: 100%; height: auto;" />
+    <img src="https://user-images.githubusercontent.com/66348567/211156355-62823c67-3222-4562-b0b6-8e61debd25e4.gif" alt="welcome gif" style="max-width: 100%; height: auto;" />
     <br>🌱 Skills: Python, C++ for Finance</br>
     <br>📫 Contact: slayerzeroa@naver.com</br>
 </div>
