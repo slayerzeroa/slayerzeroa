@@ -1,5 +1,3 @@
-### 안녕하세요 Hello 你好 Bonjour こんにちは Olá!👋
-
 <!--
 **slayerzeroa/slayerzeroa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,9 +14,14 @@ Here are some ideas to get you started:
 -->
 <div align="center">
     <img src="https://user-images.githubusercontent.com/66348567/211156355-62823c67-3222-4562-b0b6-8e61debd25e4.gif" alt="welcome gif" style="width: 1000px; height: auto;" />
-    <br>🌱 Skills: Python, C++ for Finance</br>
-    <br>📫 Contact: slayerzeroa@naver.com</br>
 </div>
+
+### 안녕하세요 Hello 你好 Bonjour こんにちは Olá!👋
+I focus on the Computational Finance using Python and C++. </br>My interested part is developing trading algorithms, pricing models, and risk management systems. </br>I've been working on data analysis at Nedge Healthcare in South Korea since 2024. </br>Always I want to cowork others. If you want to cowork me, please send me the email.
+
+</br>
+</br>
+</br>
 
 <div align="center">
     <!-- Naver Badge -->
@@ -38,13 +41,13 @@ Here are some ideas to get you started:
 <div align="center">
     <!-- Solved.ac Profile Badge -->
     <a href="https://solved.ac/slayerzeroa" target="_blank">
-        <img src="http://mazassumnida.wtf/api/generate_badge?boj=slayerzeroa" style="width: 400px;"/>
+        <img src="http://mazassumnida.wtf/api/generate_badge?boj=slayerzeroa" style="width: 356px;"/>
     </a>
 </div>
 
 <div align="center">
     <!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slayerzeroa&size_weight=0.5&count_weight=0.5&hide=scss,html,css,jupyter%20notebook,Makefile" style="width: 400px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slayerzeroa&size_weight=0.5&count_weight=0.5&hide=scss,html,css,jupyter%20notebook,Makefile" style="width: 356px;"/>
 </div>
 
 
