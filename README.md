@@ -38,13 +38,13 @@ Here are some ideas to get you started:
 <div align="center">
     <!-- Solved.ac Profile Badge -->
     <a href="https://solved.ac/slayerzeroa" target="_blank">
-        <img src="http://mazassumnida.wtf/api/generate_badge?boj=slayerzeroa" style="width: 300px;"/>
+        <img src="http://mazassumnida.wtf/api/generate_badge?boj=slayerzeroa" style="width: 400px;"/>
     </a>
 </div>
 
 <div align="center">
     <!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slayerzeroa&size_weight=0.5&count_weight=0.5&hide=scss,html,css,jupyter%20notebook,Makefile" style="width: 300px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slayerzeroa&size_weight=0.5&count_weight=0.5&hide=scss,html,css,jupyter%20notebook,Makefile" style="width: 400px;"/>
 </div>
 
 
