@@ -27,7 +27,7 @@ Sincerely, I always hope you have a great day!
 </br>
 </br>
 
-<div align="center">
+<div align="left">
     <!-- Naver Badge -->
     <a href="https://blog.naver.com/slayerzeroa" target="_blank">
         <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=FFFFFF" style="height: 20px;"/>
@@ -36,20 +36,9 @@ Sincerely, I always hope you have a great day!
     <a href="https://www.linkedin.com/in/%EB%8C%80%EB%AA%85-%EC%9C%A0-625084183/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF" style="height: 20px;"/>
     </a>
-    <!-- Hits Badge -->
-    <a href="https://hits.seeyoufarm.com">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fslayerzeroa&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=How+many+visitors&edge_flat=false" style="height: 20px;"/>
-    </a>
 </div>
 
-<div align="center">
-    <!-- Solved.ac Profile Badge -->
-    <a href="https://solved.ac/slayerzeroa" target="_blank">
-        <img src="http://mazassumnida.wtf/api/generate_badge?boj=slayerzeroa" style="width: 356px;"/>
-    </a>
-</div>
-
-<div align="center">
+<div align="left">
     <!-- Top Languages -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slayerzeroa&size_weight=0.5&count_weight=0.5&hide=scss,html,css,jupyter%20notebook,Makefile" style="width: 356px;"/>
 </div>
