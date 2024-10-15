@@ -24,23 +24,22 @@ Sincerely, I always hope you have a great day!
 📫 CONTACT : slayerzeroa@naver.com</br>
 
 </br>
-</br>
-</br>
 
 <div align="left">
     <!-- Naver Badge -->
     <a href="https://blog.naver.com/slayerzeroa" target="_blank">
-        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=FFFFFF" style="height: 20px;"/>
+        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=FFFFFF" style="height: 40px;"/>
     </a>
     <!-- LinkedIn Badge -->
     <a href="https://www.linkedin.com/in/%EB%8C%80%EB%AA%85-%EC%9C%A0-625084183/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF" style="height: 20px;"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF" style="height: 40px;"/>
     </a>
 </div>
+</br>
 
 <div align="left">
     <!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slayerzeroa&size_weight=0.5&count_weight=0.5&hide=scss,html,css,jupyter%20notebook,Makefile" style="width: 356px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slayerzeroa&size_weight=0.5&count_weight=0.5&hide=scss,html,css,jupyter%20notebook,Makefile" style="width: 290px;"/>
 </div>
 
 
